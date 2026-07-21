@@ -29,6 +29,7 @@ Integração hardware/software
 
 📸 Imagens
 
-![Imagem 1](images/image1.png)
-
-![Imagem 2](images/image2.png)
+<p>
+  <img src="images/image1.png" width="45%">
+  <img src="images/image2.png" width="45%">
+</p>
