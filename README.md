@@ -8,7 +8,7 @@ Projeto de sistema embarcado utilizando Arduino para controle de um carrinho de 
 ⚙️ Tecnologias
 
 C++
-Arduino
+Arduino Uno
 Bluetooth
 Motores DC + Ponte H
 Servo motor
@@ -26,3 +26,7 @@ Sistemas embarcados
 Controle de motores
 Comunicação serial
 Integração hardware/software
+
+📸 Imagens
+
+
