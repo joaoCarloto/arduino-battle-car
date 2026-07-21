@@ -29,5 +29,6 @@ Integração hardware/software
 
 📸 Imagens
 
-images/image1
-images/image2
+![Imagem 1](images/image1.png)
+
+![Imagem 2](images/image2.png)
